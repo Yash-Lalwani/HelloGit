@@ -1,3 +1,3 @@
 # HelloGit
-My first Git Repo
+My first Git Repository.
 Author - Yash Lalwani
